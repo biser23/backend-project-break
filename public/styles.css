@@ -1,0 +1,77 @@
+a{
+    color: white;
+    text-decoration: none;
+}
+
+.div1 {
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+    background-color: rgb(40, 40, 40);
+    font-size: 25px;
+}
+h1{
+    font-size: 30px;
+    color: black;
+    text-align: center;
+}
+
+.boxContainer0 {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin: auto;
+    text-align: center;
+}
+
+.boxOne {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.9);
+    font-size: 2em; 
+    color: yellow;
+    width: 30%; 
+    height: 300px;
+    margin: 5% 2%; 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url('/zapatos.jpg');
+}
+
+.boxTwo {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.9);
+    font-size: 2em; 
+    color: yellow;
+    width: 30%; 
+    height: 300px;
+    margin: 5% 2%; 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url('/camiseta.jpg');
+}
+
+.boxThree {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.9);
+    font-size: 2em; 
+    color: yellow;
+    width: 30%; 
+    height: 300px;
+    margin: 5% 2%; 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url('/leon.jpg');
+}
+
+.boxFour {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.9);
+    font-size: 2em; 
+    color: yellow;
+    width: 30%; 
+    height: 300px;
+    margin: 5% 2%; 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url('/gafas.jpg');
+}
